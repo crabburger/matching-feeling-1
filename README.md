@@ -1,1 +1,2 @@
-# Matching game with random fruits and animals
+# Matching game
+With random fruits and animals as cordinate indicator.
